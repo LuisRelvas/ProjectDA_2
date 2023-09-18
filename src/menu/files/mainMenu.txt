@@ -1,0 +1,7 @@
+Backtracking
+Triangular Approximation
+Nearest Neighbor
+Christofides + 2-opt
+Simulated Annealing
+Select Graph
+Quit
